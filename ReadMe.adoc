@@ -1,3 +1,8 @@
 == Title
 
-Text
+Initial solution from: https://medium.com/vandium-software/unit-testing-aws-lambda-functions-in-node-js-7ad6c8f5000
+
+
+Lambda-tester docs https://github.com/vandium-io/lambda-tester/tree/master/docs
+
+
